@@ -11,7 +11,7 @@ export default class Layout extends React.Component {
                     {this.props.children}
                 </main>
 
-                <footer>Welcome to down</footer>
+                <footer>down</footer>
             </div>
         );
     }
